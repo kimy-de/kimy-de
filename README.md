@@ -1,5 +1,8 @@
-### Hi there 👋
-<img src="https://img.shields.io/github/stars/kimy-de?style=social">
+#### Research Interests <img src="https://img.shields.io/github/stars/kimy-de?style=social">
+* Closed-loop feedback control systems and model reduction
+* Physics-informed / data-driven models for solving partial differential equations
+* Deep learning in computer vision
+
 
 <!--
 **kimy-de/kimy-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
