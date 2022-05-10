@@ -3,7 +3,7 @@
 * Physics-informed / data-driven models for solving partial differential equations
 * Deep learning in computer vision
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimy-de&hide=jupyter%20notebook&layout=compact)](https://github.com/kimy-de/github-readme-stats)
 <!--
 **kimy-de/kimy-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
