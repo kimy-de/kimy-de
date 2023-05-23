@@ -1,5 +1,6 @@
 #### Research Interests <img src="https://img.shields.io/github/stars/kimy-de?style=social">
-* Closed-loop feedback control systems and model reduction
+* Model order reduction
+* Closed-loop feedback control systems
 * Physics-informed / data-driven models for solving partial differential equations
 * Deep learning in computer vision
 
